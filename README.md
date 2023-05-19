@@ -18,9 +18,11 @@ This is a tool to transfer the skinned mesh to another armature, for example, ha
 https://github.com/alisahanyalcin/UnitySkinnedMeshTransferTool/assets/34830846/b23189ac-f1af-495e-8595-c9d549324ec6
 
 ## Notice
-1. The Target mesh and Source mesh must not be prefabs.
-2. This plugin has only been tested for hair. It may not work for other meshes.
-3. If you find a bug, please report it in the [issues](https://github.com/alisahanyalcin/UnitySkinnedMeshTransferTool/issues) section.
+1. This plugin use UniVRM. Please import UniVRM before using this plugin.
+2. The Target mesh and Source mesh must not be prefabs.
+3. This plugin has only been tested for hair. It may not work for other meshes.
+4. If you find a bug, please report it in the [issues](https://github.com/alisahanyalcin/UnitySkinnedMeshTransferTool/issues) section.
+
 ## License
 [MIT License](https://github.com/alisahanyalcin/UnitySkinnedMeshTransferTool/blob/master/LICENSE)
 
