@@ -15,7 +15,7 @@ This is a tool to transfer the skinned mesh to another armature, for example, ha
 3. Done!
 
 ## How does it work?
-[UnitySkinnedMeshTransferTool.mp4](UnitySkinnedMeshTransferTool.mp4)
+https://github.com/alisahanyalcin/UnitySkinnedMeshTransferTool/assets/34830846/b23189ac-f1af-495e-8595-c9d549324ec6
 
 ## Notice
 1. The Target mesh and Source mesh must not be prefabs.
